@@ -1,30 +1,15 @@
-Day-to-Day Activities (DevOps Engineer – Interview Answer)
+Good morning, my name is Venkata Amarnath. I am basically from Andhra Pradesh, and I have overall 3.2 years of experience as an AWS DevOps Engineer.
 
+My experience lies in managing and maintaining CI/CD pipelines using Jenkins, containerizing applications with Docker and deploying them on Kubernetes clusters, automating and maintaining  AWS cloud infrastructure using Terraform, and monitoring system metrics and application logs using Prometheus, Grafana, and the EFK stack. ,automated manual tasks using Shell scripting and  I have worked with various AWS services like EC2, VPC, S3, RDS, Route 53, and others
 
-As a DevOps Engineer, my day usually starts with a daily stand-up meeting where I share what I worked on yesterday, what I plan to do today, and if I’m facing any blockers.
+In addition, I am a certified AWS Cloud Practitioner.
+-----------------------------------------------------------------------------------
+day to day activites
+---------------------
+My day-to-day work starts with the stand-up call, where I need to  share what work I completed yesterday. If I am blocked due to some reason, I tell i am looking for help for xyz person. After the stand-up, I go through Jira tickets and start working on the highest-priority tasks. Most of my tasks involve creating infrastructure on AWS, Writing and updating Helm charts , fixing failed Jenkins builds, and monitoring Grafana and Kibana dashboards.
 
-After the meeting, I check Jira to review my assigned tasks. If there are any urgent issues like a failed build, deployment error, or monitoring alert, I work on fixing those first.
+Throughout the day, I also collaborate with developers and QA engineers to debug environment-related issues and support CI/CD improvements.
 
-I use tools like Jenkins for CI/CD, Terraform for creating infrastructure in AWS, and Docker for containerizing applications. I also help developers with infrastructure requests and deployments.
+ By the end of the day, I will  update the Jira tracker.
 
-If everything is running smoothly, I focus on:
-
-Improving CI/CD pipelines
-
-Automating tasks with shell scripts
-
-Managing Kubernetes deployments using Helm
-
-Monitoring using CloudWatch, Prometheus, or Grafana
-
-------------------------------------------------------------------------------------------------
-
-
-Good afternoon, my name is Venkata Amarnath. I'm originally from Andhra Pradesh, and I hold a Bachelor’s degree in Computer Science from Sri Venkateswara University.
-
-I have 3.2 years of experience working as a DevOps and AWS Cloud Engineer. My experience lies in building scalable systems, automating CI/CD pipelines, and managing infrastructure on AWS
-
-Containerizing applications with Docker,Deploying microservices on Kubernetes clusters
-
-I closely collaborate with development teams to ensure smooth and reliable deployments. I'm also an AWS Certified Cloud Practitioner
-
+----------------------
